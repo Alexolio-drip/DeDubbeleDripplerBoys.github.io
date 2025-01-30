@@ -2,6 +2,13 @@ h1 {
     background-color:rgb(181, 53, 255);
   }
   body {
-    background-image: linear-gradient(to bottom right, rgb(57, 43, 255), rgb(187, 0, 194));
+    background-image: linear-gradient(to bottom right, rgb(28, 3, 255)55), rgb(185, 0, 202));
+    margin: 0px;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh
   }
   
