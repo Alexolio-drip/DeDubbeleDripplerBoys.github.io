@@ -2,5 +2,6 @@ h1 {
     background-color:rgb(181, 53, 255);
   }
   body {
-    background-color: rgb(92, 94, 243);
+    background-image: linear-gradient(to bottom right, rgb(57, 43, 255), rgb(187, 0, 194));
   }
+  
